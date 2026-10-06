@@ -1,0 +1,15 @@
+# Ejecutables de simulacion: los genera iverilog, se regeneran en segundos
+*.vvp
+
+# Resultados intermedios de la sintesis: los regenera yosys y nextpnr
+# con los comandos del README. El bitstream top.fs SI se versiona,
+# porque es el archivo que se cargo a la tarjeta y sirve de evidencia.
+implementacion/build/*.json
+
+# Configuracion de vista de GTKWave, es personal de cada quien
+*.gtkw
+
+# Basura del sistema y de los editores
+.DS_Store
+*~
+*.swp

@@ -116,4 +116,17 @@ module control_finca_tb;
 
       $display("All tests passed.");
     end
-    endmodule
+
+    // Grabacion de la forma de onda.
+    // El testbench exportado por Digital no incluye estas lineas, asi que
+    // sin ellas vvp corre la simulacion pero no deja ningun archivo.
+    // $dumpfile dice como se llama el archivo de salida.
+    // $dumpvars(0, control_finca_tb) graba todas las senales desde este
+    // modulo hacia adentro; el 0 significa "todos los niveles de jerarquia",
+    // o sea que tambien quedan registradas las senales internas del diseno.
+    initial begin
+        $dumpfile("tb.vcd");
+        $dumpvars(0, control_finca_tb);
+    end
+
+endmodule
