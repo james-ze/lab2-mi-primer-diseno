@@ -1,0 +1,160 @@
+$date
+	Tue Oct  6 14:13:13 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module control_finca_tb $end
+$var wire 1 ! Q0_7 $end
+$var wire 1 " Q0_6 $end
+$var wire 1 # Q0_5 $end
+$var wire 1 $ Q0_4 $end
+$var wire 1 % Q0_3 $end
+$var wire 1 & Q0_2 $end
+$var wire 1 ' Q0_1 $end
+$var reg 1 ( I0_1 $end
+$var reg 1 ) I0_2 $end
+$var reg 1 * I0_3 $end
+$var reg 1 + I0_4 $end
+$var integer 32 , i [31:0] $end
+$scope module control_finca0 $end
+$var wire 1 ( I0_1 $end
+$var wire 1 ) I0_2 $end
+$var wire 1 * I0_3 $end
+$var wire 1 + I0_4 $end
+$var wire 1 ' Q0_1 $end
+$var wire 1 & Q0_2 $end
+$var wire 1 % Q0_3 $end
+$var wire 1 $ Q0_4 $end
+$var wire 1 - Q0_4_temp $end
+$var wire 1 # Q0_5 $end
+$var wire 1 " Q0_6 $end
+$var wire 1 ! Q0_7 $end
+$var wire 1 . nP $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+1.
+0-
+b0 ,
+0+
+0*
+0)
+0(
+0'
+0&
+1%
+0$
+0#
+0"
+0!
+$end
+#10000
+1&
+1$
+1-
+1#
+1(
+b1 ,
+#20000
+1'
+0%
+0#
+0(
+1)
+b10 ,
+#30000
+0'
+1#
+1(
+b11 ,
+#40000
+0&
+0$
+0-
+1%
+0#
+0(
+0)
+1"
+1*
+b100 ,
+#50000
+1&
+1$
+1-
+1#
+1(
+b101 ,
+#60000
+0%
+1'
+0#
+0(
+1)
+b110 ,
+#70000
+1#
+1(
+b111 ,
+#80000
+0&
+0$
+0-
+1%
+0'
+0.
+0#
+0(
+0)
+0"
+0*
+1!
+1+
+b1000 ,
+#90000
+1#
+1(
+b1001 ,
+#100000
+0%
+0#
+0(
+1)
+b1010 ,
+#110000
+1#
+1(
+b1011 ,
+#120000
+1%
+0#
+0(
+0)
+1"
+1*
+b1100 ,
+#130000
+1#
+1(
+b1101 ,
+#140000
+0%
+0#
+0(
+1)
+b1110 ,
+#150000
+1#
+1(
+b1111 ,
+#160000
+b10000 ,
