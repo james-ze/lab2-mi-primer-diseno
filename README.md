@@ -6,9 +6,9 @@ Red de control para una finca que conmuta entre la red eléctrica y un banco de 
 **Tarjeta:** Sipeed Tang Nano 9K (Gowin GW1NR-9)
 
 **Integrantes:**
-- James Velasquez Boyaca (jvelasquezbo@unal.edu.co)
-- (nombre y correo)
-- (nombre y correo)
+- James Yefrei Velasquez Boyaca (jvelasquezbo@unal.edu.co)
+- Juan Esteban Castañeda Cristancho (jcastanedacr@unal.edu.co)
+- Andres Alejandro González Vargas (agonzalesva@unal.edu.co)
 
 ---
 
